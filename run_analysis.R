@@ -1,4 +1,4 @@
-setwd("~/data/UCI HAR Dataset")
+setwd("~/UCI HAR Dataset")
 
 # read the files from the location cantaining features, activity labels and subject train and x_train and y_train
 
